@@ -1,16 +1,16 @@
 # Farmers-market-dashboard
 A dynamic, data-driven dashboard built to monitor and analyze key aspects of a local farmer market ecosystem—tracking vendor activity, booth assignments, product availability, customer purchases, and inventory trends to support operational efficiency and strategic decision-making.
 
-##1. Project Title 
+## 1. Project Title 
 
  Farmer Market Dashboard: Visualizing Vendor, Inventory & Customer Activity
 An interactive data analytics tool built to track farmer market operations, vendor participation, product trends, customer behavior, and booth utilization across market dates.
 
-##2. Purpose
+## 2. Purpose
 
 The Farmer Market Dashboard provides a comprehensive overview of market operations by connecting vendor, customer, inventory, and booth data. This tool helps market managers, vendors, and analysts optimize planning, inventory, and customer engagement through data visualization.
 
-##3. Tech Stack
+## 3. Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
@@ -24,7 +24,7 @@ The dashboard was built using the following tools and technologies:
 
 📁 File Format – Developed in .pbix and exported as .png for previews or presentation.
 
-##4. Data Source
+## 4. Data Source
 
 Source: Internal farmer market database (simulated or real).
 
@@ -48,7 +48,7 @@ customer_purchases: Transaction records linking customers to products purchased.
 
 market_date_info: Contains details on each market event/date.
 
-##5. Features 
+## 5. Features 
 • Business Problem
 
 Farmer markets operate in a dynamic environment where vendors, customers, and inventory change frequently. Without a centralized tool, it's difficult for market managers to analyze vendor activity, monitor booth assignments, track popular products, and understand customer trends.
@@ -100,7 +100,7 @@ Strategic Planning: Support decisions for expanding vendor variety or hosting th
 
 Vendor Support: Helps new vendors understand what sells well and when.
 
-##6.  Screenshots 
+## 6.  Screenshots 
 
 Preview - https://github.com/ravisaini007/Farmers-market-dashboard/blob/main/Snapshot%20index%20page.png
           https://github.com/ravisaini007/Farmers-market-dashboard/blob/main/Snapshot%20-1.png

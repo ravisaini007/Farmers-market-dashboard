@@ -102,8 +102,8 @@ Vendor Support: Helps new vendors understand what sells well and when.
 
 ## 6.  Screenshots 
 
-Preview - https://github.com/ravisaini007/Farmers-market-dashboard/blob/main/Snapshot%20index%20page.png
-          https://github.com/ravisaini007/Farmers-market-dashboard/blob/main/Snapshot%20-1.png
-          https://github.com/ravisaini007/Farmers-market-dashboard/blob/main/Snapshot%20-2.png
-          https://github.com/ravisaini007/Farmers-market-dashboard/blob/main/Snapshot%20-3.png
+Preview - ![Dashboard Preview](https://github.com/ravisaini007/Farmers-market-dashboard/blob/main/Snapshot%20index%20page.png)
+          ![Dashboard Preview](https://github.com/ravisaini007/Farmers-market-dashboard/blob/main/Snapshot%20-1.png)
+          ![Dashboard Preview](https://github.com/ravisaini007/Farmers-market-dashboard/blob/main/Snapshot%20-2.png)
+          ![Dashboard Preview](https://github.com/ravisaini007/Farmers-market-dashboard/blob/main/Snapshot%20-3.png)
 

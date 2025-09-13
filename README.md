@@ -3,7 +3,7 @@ A dynamic, data-driven dashboard built to monitor and analyze key aspects of a l
 
 ## 1. Project Title 
 
- Farmer Market Dashboard: Visualizing Vendor, Inventory & Customer Activity
+Farmer Market Dashboard: Visualizing Vendor, Inventory & Customer Activity
 An interactive data analytics tool built to track farmer market operations, vendor participation, product trends, customer behavior, and booth utilization across market dates.
 
 ## 2. Purpose
